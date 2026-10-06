@@ -178,5 +178,6 @@ no claim is made about real ledgers, real fraud prevalence (here about 0.8% of e
 preparer behaviour.
 
 ## How to cite
-Cite the article that introduces this benchmark, and the source data above. The article reference and a DOI for this
-release will be added here on publication.
+Cite this dataset, version 1.0.0, as https://doi.org/10.5281/zenodo.23188844 (the DOI becomes active when the dataset is
+published together with the article that introduces it), and cite that article and the source data above. The article
+reference will be added here on publication.
