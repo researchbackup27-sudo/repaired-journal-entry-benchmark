@@ -1,0 +1,36 @@
+{
+ "dev_seeds": [
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51
+ ],
+ "test_seeds": [
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61
+ ],
+ "versions": {
+  "dev": [
+   "repaired",
+   "published_generator"
+  ],
+  "test": [
+   "repaired"
+  ]
+ },
+ "note": "Design methods on dev seeds only; report on test seeds. Score each version on its own: never use the other version of the same seed, and never regenerate a seed with the authors' generator."
+}
